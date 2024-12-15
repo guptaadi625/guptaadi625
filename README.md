@@ -1,8 +1,14 @@
 # Hiii there, I am Aditya Gupta 👋🏻👋🏻
 
-http://34.93.126.129:8000/guptaadi625
+<!--
+![Leetcode Stats](https://leetcard.jacoblin.cool/guptaadi625?ext=heatmap&theme=transparent&radius=20)
+-->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/guptaadi625?ext=contest&theme=transparent&radius=20&width=1000)
+
 <!--
 **guptaadi625/guptaadi625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://leetcard.jacoblin.cool/guptaadi625?animation=true)
 
 Here are some ideas to get you started:
 
@@ -14,4 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+When Its better 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
