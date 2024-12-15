@@ -4,7 +4,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/guptaadi625?ext=heatmap&theme=transparent&radius=20)
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/guptaadi625?ext=contest&theme=transparent&radius=20&width=1000)
+![Leetcode Stats](https://leetcard.jacoblin.cool/guptaadi625?ext=contest&theme=transparent&radius=20&width=3000)
 
 <!--
 **guptaadi625/guptaadi625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
